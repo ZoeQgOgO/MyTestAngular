@@ -1,0 +1,6 @@
+[
+{"ID":1,"ItemName":"Milk","Price":2.99,"Category":"Drink"},
+{"ID":2,"ItemName":"Bread","Price":5.99,"Category":"Food"},
+{"ID":3,"ItemName":"Paper","Price":0.99,"Category":"Office"},
+{"ID":4,"ItemName":"Pen","Price":1.99,"Category":"Office"}
+]
